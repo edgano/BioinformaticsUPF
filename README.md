@@ -39,6 +39,21 @@ And we will get a file with the extension ```.ova```
 
 Now, open VirtualBox and follow the steps to import the image.
 
+Click on ```File > Import Appliance``` (Image below)
+
+![Image 001](https://github.com/edgano/BioinformaticsUPF/blob/master/resources/001.png) 
+
+Then click on the icon on the right and select the image you have download in the step before
+
+![Image 002](https://github.com/edgano/BioinformaticsUPF/blob/master/resources/002.png) 
+
+Then, is just the 1st rule of ***Installation Guide***, it means...```Import>>Next>>Next>>...>>Accept```
+
+![Image 003](https://github.com/edgano/BioinformaticsUPF/blob/master/resources/003.png) 
+
+The last step is to run the image. Select the image and click on ```Start``` and it will run and popup a new windows with all the enviroment and software ready to use.
+
+![Image 004](https://github.com/edgano/BioinformaticsUPF/blob/master/resources/004.png) 
 
 ## Software Included ##
 * Nextflow (ver. 0.26.4.4741)
