@@ -47,7 +47,7 @@ Then click on the icon on the right and select the image you have download in th
 
 ![Image 002](https://github.com/edgano/BioinformaticsUPF/blob/master/resources/002.png) 
 
-Then, is just the 1st rule of ***Installation Guide***, it means...```Import>>Next>>Next>>...>>Accept```
+Then, is just the 1st rule of ***Installation Guide***, it means...```Import>>Next>>Next>>...>>Accept``` at the end of the proccess it can take some time to import the image. Keep Calm
 
 ![Image 003](https://github.com/edgano/BioinformaticsUPF/blob/master/resources/003.png) 
 
