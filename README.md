@@ -61,5 +61,5 @@ The last step is to run the image. Select the image and click on ```Start``` and
     + BioPython
 * Blast (ver. 2.2.24)
 * SeqAnn Package
-* T_Coffee (dev_yo@20171228_16:49)
+* T_Coffee (dev@20171228_16:49)
 * ViennaRNA Package (ver. 2.4.3)
