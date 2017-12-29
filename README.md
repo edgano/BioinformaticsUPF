@@ -1,9 +1,10 @@
-# BioinformaticsUPF
-How to start
+# BioinformaticsUPF #
+
+## How to start ##
 
 First we need to download VirtualBox software to run the image of the course. 
 
-To donwload VirtualBox
+### To donwload VirtualBox ###
 
 First we will add the source list of VB to our host
 
@@ -26,13 +27,15 @@ sudo apt update
 sudo apt install virtualbox-5.1
 ```
 
-The next step is to download the image we have prepared for the course.
+### To download the image ###
 
 Go to the site
 
 ```http://edgargarriga.com/upfbioinfo.html```
 
 And we will get a file with the extension ```.ova``` 
+
+### Run VB with out image ###
 
 Now, open VirtualBox and follow the steps to import the image.
 
