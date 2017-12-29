@@ -4,7 +4,7 @@
 
 First we need to download VirtualBox software to run the image of the course. 
 
-### To donwload VirtualBox ###
+### Donwload VirtualBox ###
 
 First we will add the source list of VB to our host
 
@@ -27,7 +27,7 @@ sudo apt update
 sudo apt install virtualbox-5.1
 ```
 
-### To download the image ###
+### Download the image ###
 
 Go to the site
 
@@ -35,7 +35,7 @@ Go to the site
 
 And we will get a file with the extension ```.ova``` 
 
-### Run VB with out image ###
+### Run VB with our image ###
 
 Now, open VirtualBox and follow the steps to import the image.
 
