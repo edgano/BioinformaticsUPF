@@ -39,3 +39,12 @@ And we will get a file with the extension ```.ova```
 
 Now, open VirtualBox and follow the steps to import the image.
 
+
+## Software Included ##
+* Nextflow (ver. 0.26.4.4741)
+* Python (ver. 2.7.12)
+    + BioPython
+* Blast (ver. 2.2.24)
+* SeqAnn Package
+* T_Coffee (dev_yo@20171228_16:49)
+* ViennaRNA Package (ver. 2.4.3)
