@@ -5,6 +5,7 @@
 First we need to download VirtualBox software to run the image of the course. 
 
 ### Donwload VirtualBox ###
+#### Ubuntu 16.04 ####
 
 First we will add the source list of VB to our host
 
@@ -26,6 +27,10 @@ And finally, we will updater the index and install VB
 sudo apt update
 sudo apt install virtualbox-5.1
 ```
+#### Windows ####
+_Coming soon..._
+#### MacOsX ####
+_Coming soon..._
 
 ### Download the image ###
 
