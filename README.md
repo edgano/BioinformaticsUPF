@@ -27,8 +27,12 @@ And finally, we will updater the index and install VB
 sudo apt update
 sudo apt install virtualbox-5.1
 ```
+
 #### Windows ####
-_Coming soon..._
+
+For Windows platform, we only need to go the the VirtualBox site and download the executable.
+You can find it here ```https://www.virtualbox.org/wiki/Downloads```
+
 #### MacOsX ####
 _Coming soon..._
 
