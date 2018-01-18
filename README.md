@@ -40,7 +40,11 @@ _Coming soon..._
 
 Go to the site
 
-```http://edgargarriga.com/upfbioinfo.html```
+```http://edgargarriga.com/upfbioinfo.html``` Server Mega
+
+```http://www.tcoffee.org/Resources/vm/UPF_Bioinformatics.ova``` Server Dropbox
+
+```http://edgargarriga.com/upfbioinfo2.html``` Server Dropbox
 
 And we will get a file with the extension ```.ova``` 
 
@@ -72,3 +76,5 @@ The last step is to run the image. Select the image and click on ```Start``` and
 * SeqAnn Package
 * T_Coffee (dev@20171228_16:49)
 * ViennaRNA Package (ver. 2.4.3)
+
+## You can find the course material here: ```http://edgargarriga.com/2018_upf_bioinfo.zip``` ##
