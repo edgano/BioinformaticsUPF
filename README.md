@@ -77,4 +77,21 @@ The last step is to run the image. Select the image and click on ```Start``` and
 * T_Coffee (dev@20171228_16:49)
 * ViennaRNA Package (ver. 2.4.3)
 
+We need to add some extra software in our image.
+
+Open a text editor and copy this code:
+
+```
+wget http://evolution.gs.washington.edu/phylip/download/phylip-3.697.tar.gz
+tar -zxvf phylip-3.697.tar.gz
+cd phylip-3.697/src
+make -f Makefile.unx install
+cd ..
+cd exe
+export PATH=$PATH:$PWD
+cd ../../
+rm phylip-3.697.tar.gz
+```
+Save the file as ```installPhy.sh``` then change the permission of the file with this command ```chmod +x installPhy.sh``` and now run the script with ```./installPhy.sh```. It will install and configure the software ***PHYLIP***
+
 ## You can find the course material here: ```http://edgargarriga.com/2018_upf_bioinfo.zip``` ##
