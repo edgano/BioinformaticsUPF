@@ -38,13 +38,7 @@ _Coming soon..._
 
 ### Download the image ###
 
-Go to the site
-
-```http://edgargarriga.com/upfbioinfo.html``` Server Mega
-
-```http://www.tcoffee.org/Resources/vm/UPF_Bioinformatics.ova``` Server Dropbox
-
-```http://edgargarriga.com/upfbioinfo2.html``` Server Dropbox
+Download the VB image [VB](https://mega.nz/file/mNNzxKhC#YlcSU-xsldheWmCfJYP5P7sJAcvhPw7hkLIPtBvDuJY)
 
 And we will get a file with the extension ```.ova``` 
 
